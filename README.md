@@ -1,4 +1,4 @@
-# Projet B1 – Automatisation de la Gestion des Offres Commerciales
+# Automatisation de la Gestion des Offres Commerciales
 
 ## Présentation
 
